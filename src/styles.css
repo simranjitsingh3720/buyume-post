@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button_style {
+  margin-left: 12px;
+}
+
+.post_style {
+  margin-top: 12px;
+}
+
+.post_name {
+  padding: 4px;
+  margin: 4px;
+  background-color: antiquewhite;
+}
